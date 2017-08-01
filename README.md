@@ -32,3 +32,5 @@ Go to http://localhost:4000/graphql
 # screenshot
 
 ![nn](https://user-images.githubusercontent.com/12325386/28808848-f05f2b3c-76b1-11e7-83db-451b1d637189.JPG)
+
+![nn](https://user-images.githubusercontent.com/12325386/28808890-379bb6c8-76b2-11e7-84e3-4c3f7d96e469.JPG)
